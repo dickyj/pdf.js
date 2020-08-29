@@ -139,3 +139,8 @@ File an issue:
 Follow us on twitter: @pdfjs
 
 + https://twitter.com/pdfjs
+
+## GitHub Pages
+
+gulp dist-install
+
